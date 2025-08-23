@@ -1,0 +1,38 @@
+{
+  "Name": {
+    "0": "Pooja",
+    "1": "Shyam",
+    "2": "Divya",
+    "3": "Pooja",
+    "4": "Pooja",
+    "5": "Ankit",
+    "6": "Neha",
+    "7": "Divya",
+    "8": "Shyam",
+    "9": "Ram"
+  },
+  "Age": {
+    "0": 54,
+    "1": 56,
+    "2": 56,
+    "3": 48,
+    "4": 42,
+    "5": 36,
+    "6": 23,
+    "7": 43,
+    "8": 47,
+    "9": 29
+  },
+  "City": {
+    "0": "Delhi",
+    "1": "Chennai",
+    "2": "Delhi",
+    "3": "Kolkata",
+    "4": "Kolkata",
+    "5": "Chennai",
+    "6": "Kolkata",
+    "7": "Chennai",
+    "8": "Kolkata",
+    "9": "Chennai"
+  }
+}
